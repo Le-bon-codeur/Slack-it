@@ -1,0 +1,9 @@
+comp-1 https://url-comp-1.cpp
+comp-2 https://url-comp-2.cpp
+comp-3 https://url-comp-3.cpp
+comp-4 https://url-comp-4.cpp
+comp-5 https://url-comp-5.cpp
+comp-6 https://url-comp-6.cpp
+comp-7 https://url-comp-7.cpp
+comp-8 https://url-comp-8.cpp
+comp-9 https://url-comp-9.cpp
