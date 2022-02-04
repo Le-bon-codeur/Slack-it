@@ -17,7 +17,7 @@ $ apt list --installed | grep -i perl
 
 *si vous n'avez pas apt*
 
-<https://www.perl.org/get.html | Perl download>
+[https://www.perl.org/get.html](Perl download)
 
 ### Slack-App
 
