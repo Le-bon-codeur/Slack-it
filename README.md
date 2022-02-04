@@ -8,10 +8,16 @@ Quelques prérequis sont necessaires. Suivez les étapes de la doc et envoyez si
 
 ### Perl
 
+*avec le gestionnaire de package apt*
+
 ```bash
 $ sudo apt install perl
 $ apt list --installed | grep -i perl
 ```
+
+*si vous n'avez pas apt*
+
+<https://www.perl.org/get.html|Perl download>
 
 ### Slack-App
 
